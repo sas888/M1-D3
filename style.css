@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eaeded;
+}
+
+.headerLogoMain {
+  background-color: #222f3e;
+}
+
+.headerLogoMain img {
+  height: 40px;
+  margin: 10px 30px;
+}
+.headerLink {
+  background-color: #364759;
+}
+
+.headerLink span {
+  color: #eaeded;
+  font-weight: 500;
+  margin-right: 1rem;
+}
+main {
+  padding: 2rem;
+}
+.bg-yellow {
+  background-color: #f56600;
+  color: #eaeded;
+  text-align: center;
+  padding: 0.5rem;
+  font-weight: 500;
+}
+
+.bg-img {
+  background-image: url("./assets/bg-image.png");
+  background-size: 100%;
+  margin-top: 2rem;
+  padding: 2rem 0;
+  text-align: center;
+  color: #eaeded;
+}
+
+.row {
+  background-color: white;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.firstContainer {
+  text-align: left;
+  padding: 1rem 1rem 1rem 1rem;
+  box-shadow: ;
+}
+.row img {
+  width: 280px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin: 1rem;
+  box-shadow: 10px 10px rgba(220, 220, 220, 0.2);
+}
+
+.titleMain {
+  font-size: 1.5rem;
+}
+
+.titleLink {
+  color: teal;
+  margin-left: 1rem;
+  font-weight: 600;
+}
+
+.secondContainer {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.secondContainer img {
+  width: 100%;
+}
+
+.thirdContainer {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.thirdContainer img {
+  width: 100%;
+}
